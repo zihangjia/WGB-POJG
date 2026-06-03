@@ -10,7 +10,7 @@ This repository contains the code and datasets used in the paper submitted to **
 
 The **WGB-POJG** framework is designed for clustering tasks on **complex and high-dimensional datasets**. It adopts **weighted granular balls** as the fundamental clustering units and constructs an optimization-driven clustering framework based on the **principle of justifiable granularity**.
 
-This repository provides the MATLAB implementations of the proposed methods and all publicly available datasets used in the experiments on datasets **D1–D18**.
+This repository provides the MATLAB implementations of the proposed methods and all publicly available datasets used in the experiments on datasets **D1–D22**.
 
 ---
 
